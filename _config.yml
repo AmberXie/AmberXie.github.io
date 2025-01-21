@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Feng Xie"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "AmberXie/AmberXie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "privateFoto.jpg"
   name             : "Feng Xie"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
