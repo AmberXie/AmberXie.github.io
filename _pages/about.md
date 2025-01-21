@@ -7,24 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-As a researcher, I am always on the way to Future Mobility. I am currently a research associate at OVGU - Otto von Guericke University Magdeburg, in the faculty of Computer Science. Simultaneously, I enrolled as a Ph.D. candidate at OVGU with the topic "Exploration of Spatial-Temporal Models Applying in Actuated Traffic Signals Prediction", where a GCN-LSTM hybrid model is developed to solve the forecasting tasks in time series.
+As an interdisciplinary researcher, I am always on the way to Future Mobility. I am currently a research associate at OVGU - Otto von Guericke University Magdeburg, in the faculty of Computer Science. Simultaneously, I enrolled as a Ph.D. candidate at OVGU with the topic "Exploration of Spatial-Temporal Models Applying in Actuated Traffic Signals Prediction", where a GCN-LSTM hybrid model is developed to solve the forecasting tasks in time series.
 
 My research interests include Electric Mobility, Data Processing, Time Seires, Machine Learning, Intelligent Traffic System.
 
 🎓Education
 ======
-- <img src="/images/OVGU-Logo.png" width="25"> 2023-present: Ph.D. candidate at OVGU - Otto von Guericke University Magdeburg, Germany.
-- <img src="/images/OVGU-Logo.png" width="25"> 2015-2018: Master of Electrical Engineering and Information Technology at OVGU - Otto von Guericke University Magdeburg, Germany.
-- <img src="/images/ecust-logo.png" width="25"> 2011-2015: Bachelor of Information Technology at ECUST - East China University of Science and Technology, Shanghai China.
+- <img src="/images/OVGU-Logo.png" width="25"> 2023-present: Ph.D. candidate at [OVGU](https://www.ovgu.de/) - Otto von Guericke University Magdeburg, Germany.
+- <img src="/images/OVGU-Logo.png" width="25"> 2015-2018: Master of Electrical Engineering and Information Technology at [OVGU](https://www.ovgu.de/) - Otto von Guericke University Magdeburg, Germany.
+- <img src="/images/ecust-logo.png" width="25"> 2011-2015: Bachelor of Information Technology at [ECUST](https://www.ecust.edu.cn/en/) - East China University of Science and Technology, Shanghai China.
 
-Getting started
+👩‍💻Working experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- <img src="/images/OVGU-Logo.png" width="25"> 2025.01-present: Research associate at [OVGU](https://www.ovgu.de/) - Otto von Guericke University Magdeburg, Germany.
+- <img src="/images/OVGU-Logo.png" width="25"> 2025.01-present: Research associate at [OVGU](https://www.ovgu.de/) - Otto von Guericke University Magdeburg, Germany.
 
 Site-wide configuration
 ------
