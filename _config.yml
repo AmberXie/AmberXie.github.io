@@ -24,9 +24,9 @@ author:
   avatar           : "privateFoto.jpg"
   name             : "Feng Xie"
   pronouns         : # example: "she/her"  
-  bio              : "Research associate & Ph.D. candidate at OVGU"
+  bio              : "Research associate & Ph.D. candidate at Otto von Guericke University Magdeburg"
   location         : "Magdeburg, Germany"
-  employer         : "Otto von Guericke University Magdeburg"
+  employer         : "OVGU"
   uri              : # URL
   email            : "feng.xie@ovgu.de" 
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Feng Xie"
+  linkedin         : "feng-xie-128b131a2"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
