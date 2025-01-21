@@ -15,7 +15,7 @@ Education
 ======
 🎓2023-present: Ph.D. candidate at 
 
-<img src="/images/profile.png" width="20" height="20"> 列表项 1 
+<img src="/images/OVGU-Logo.png" width="20" height="20"> 列表项 1 
 
 Getting started
 ======
