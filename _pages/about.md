@@ -11,12 +11,11 @@ As a researcher, I am always on the way to Future Mobility. I am currently a res
 
 My research interests include Electric Mobility, Data Processing, Time Seires, Machine Learning, Intelligent Traffic System.
 
-Education
+🎓Education
 ======
-#🎓2023-present: Ph.D. candidate at 
-<img src="/images/OVGU-Logo.png" width="20"> 2023-present: Ph.D. candidate at OVGU - Otto von Guericke University Magdeburg, Germany.
-<img src="/images/OVGU-Logo.png" width="20"> 2015-2018: Master of Electrical Engineering and Information Technology at OVGU - Otto von Guericke University Magdeburg, Germany.
-<img src="/images/ecust-logo.png" width="20"> 2011-2015: Bachelor of Information Technology at ECUST - East China University of Science and Technology, Shanghai China.
+<img src="/images/OVGU-Logo.png" width="25"> 2023-present: Ph.D. candidate at OVGU - Otto von Guericke University Magdeburg, Germany.
+<img src="/images/OVGU-Logo.png" width="25"> 2015-2018: Master of Electrical Engineering and Information Technology at OVGU - Otto von Guericke University Magdeburg, Germany.
+<img src="/images/ecust-logo.png" width="25"> 2011-2015: Bachelor of Information Technology at ECUST - East China University of Science and Technology, Shanghai China.
 
 Getting started
 ======
