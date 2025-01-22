@@ -21,28 +21,28 @@ author_profile: true
 
 ✅Finished Projects
 ======
-- 2021-2024: [LOGIN](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/AVF-projekte/login-hannover.html) - Traffic Lights Optimally Controlled for Public Transportation.
+- 2021-2024: <img src="/images/login-logo.png" height="30">[LOGIN](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/AVF-projekte/login-hannover.html) - Traffic Lights Optimally Controlled for Public Transportation.
   - Forecasted future traffic signals as a time-series based on historical data with machine learning
   - Developed a hybrid spatio-temporal model of GCN-LSTM with a high accuracy
   - Funded by: [BMDV](https://bmdv.bund.de/DE/Home/home.html) - Federal Ministry for Digital and Transport
  
-- 2019-2022: [ORIENT](https://www.ifak.eu/en/projects/orient) - Online Marketplace for Regionally Produced Food.
+- 2019-2022: <img src="/images/halloAltmark-logo.png" height="30">[ORIENT](https://www.ifak.eu/en/projects/orient) - Online Marketplace for Regionally Produced Food.
   - Developed an off-line map for Sachsen-Anhalt on an Android app by mapsforge based on OpenStreetMap
   - Developed WordPress plugins with PHP for the online market webpage
   - Online market: [Hallo, Altmark](https://halloaltmark.de/)
   - Funded by: [BMEL](https://www.bmel.de/EN/Home/home_node.html) - Federal Ministry of Food and Agriculture
 
-- 2018-2021: [BiDiMoVe](https://www.ifak.eu/en/projects/bidimove) - Hamburg Bidirectional, Multimodal, Connected
+- 2018-2021: <img src="/images/BiDiMoVe-Logo.png" height="30">[BiDiMoVe](https://www.ifak.eu/en/projects/bidimove) - Hamburg Bidirectional, Multimodal, Connected
   - Designed a dynamic GLOSA for buses with obtained SPAT messages via V2I communication
   - Funded by: [BMVI](https://www.cleanenergywire.org/experts/bmvi-federal-ministry-transport-and-digital-infrastructure) - Federal Ministry of Transport and Digital Infrastructure
  
-- 2018-2020: [PLATON](https://service.ifak.eu/PLATON-Web/home.html) - Planning Process and Tool for Step-by-Step Conversion of the Conventional or Mixed Bus Fleet to a 100% Electric Bus Fleet
+- 2018-2020: <img src="/images/platon-logo.png" height="30">[PLATON](https://service.ifak.eu/PLATON-Web/home.html) - Planning Process and Tool for Step-by-Step Conversion of the Conventional or Mixed Bus Fleet to a 100% Electric Bus Fleet
   - Constructed a third-order Lithium battery equivalent circuit model with an innovative lightweight parameter estimation methodology based on a non-iterative algorithm
   - Combined the Lithium battery model with an E-bus driving model to assess the energy changes during a whole day operation
   - Developed a [web-tool](http://service.ifak.eu/PLATON-Tool/#/) to process data from OpenStreetMap, editing and measuring routes of public transport, and calculating basic total cost of ownership of electric bus fleets
   - Funded by: [BMVI](https://www.cleanenergywire.org/experts/bmvi-federal-ministry-transport-and-digital-infrastructure) - Federal Ministry of Transport and Digital Infrastructure
  
-- 2017-2019: [MENDEL](https://www.ifak.eu/de/news/neues-projekt-am-ifak-mendel-minimale-belastung-elektrischer-netze-durch-ladevorgaenge) - Minimal Load of Electrical Power Grids through Charging Operations of Electric Busses
+- 2017-2019: <img src="/images/mendel-logo.png" height="30">[MENDEL](https://www.ifak.eu/de/news/neues-projekt-am-ifak-mendel-minimale-belastung-elektrischer-netze-durch-ladevorgaenge) - Minimal Load of Electrical Power Grids through Charging Operations of Electric Busses
   - Developed an HMI to add layers of charging stations and bus routes to OpenStreetMap
   - Funded by: [BMWi](https://www.bafa.de/DE/Home/home_node.html) - Federal Ministry for Economic Affairs and Climate Protection
   
