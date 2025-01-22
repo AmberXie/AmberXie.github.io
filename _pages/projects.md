@@ -21,7 +21,7 @@ author_profile: true
 
 ✅Finished Projects
 ======
-- 2021-2024: [LOGIN](https://www.ifak.eu/en/projects/login) - Traffic Lights Optimally Controlled for Public Transportation.
+- 2021-2024: [LOGIN](https://bmdv.bund.de/SharedDocs/DE/Artikel/DG/AVF-projekte/login-hannover.html) - Traffic Lights Optimally Controlled for Public Transportation.
   - Forecasted future traffic signals as a time-series based on historical data with machine learning
   - Developed a hybrid spatio-temporal model of GCN-LSTM with a high accuracy
   - Funded by: [BMDV](https://bmdv.bund.de/DE/Home/home.html) - Federal Ministry for Digital and Transport
