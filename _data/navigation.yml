@@ -1,4 +1,4 @@
-
+s
 # The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional
@@ -9,7 +9,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Projects"
     url: /talks/    
 
   - title: "Teaching"
