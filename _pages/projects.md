@@ -11,7 +11,7 @@ author_profile: true
 ======
 - 2024-present: [IMIQ](https://www.niimo.ovgu.de/en/IMIQ.html) - Intelligent Mobility Space in the District.
 
-  This project is aiming to change the Port of Science to a district of the future, where new solutions are conceived, technically tested, and socio-economically implemented in alignment with the citizens' needs.
+  This project is aiming to change the Science Harbour to a district of the future, where new solutions are conceived, technically tested, and socio-economically implemented in alignment with the citizens' needs.
   - Establishing a living lab for intelligent mobility
     - Research of innovative mobility concepts using an autonomous shuttle bus within a 5G test field
   - Establishing a Digital Work-Life Twin
