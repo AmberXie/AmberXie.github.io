@@ -9,7 +9,7 @@ redirect_from:
 
 As an interdisciplinary researcher, I am always on the way to Future Mobility. I am currently a research associate at OVGU - Otto von Guericke University Magdeburg, in the faculty of Computer Science. Simultaneously, I enrolled as a Ph.D. candidate at OVGU with the topic "Exploration of Spatial-Temporal Models Applying in Actuated Traffic Signals Prediction", where a GCN-LSTM hybrid model is developed to solve the forecasting tasks in time series.
 
-My research interests include Electric Mobility, Data Processing, Time Seires, Machine Learning, Intelligent Traffic System.
+My research interests include Electric Mobility, Data Processing, Time Series, Machine Learning, Intelligent Traffic System.
 
 🎓Education
 ======
