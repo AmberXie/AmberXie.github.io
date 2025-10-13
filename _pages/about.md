@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-As an interdisciplinary researcher, I am always on the way to Future Mobility. I am currently a research associate at OVGU - Otto von Guericke University Magdeburg, in the faculty of Computer Science. Simultaneously, I enrolled as a Ph.D. candidate at OVGU with the topic "Exploration of Spatial-Temporal Models Applying in Actuated Traffic Signals Prediction", where a GCN-LSTM hybrid model is developed to solve the forecasting tasks in time series.
+As an interdisciplinary researcher, I am always on the way to Future Mobility. I am a research associate at OVGU - Otto von Guericke University Magdeburg, in the faculty of Computer Science. Simultaneously, I enrolled as a Ph.D. candidate at OVGU with the topic "Exploration of Spatial-Temporal Models Applying in Actuated Traffic Signals Prediction", where a GCN-LSTM hybrid model is developed to solve the forecasting tasks in time series.
 
-My research interests include Electric Mobility, Data Processing, Time Series, Machine Learning, Intelligent Traffic System.
+My research interests include Electric Mobility, Traffic/Vehicle Digital Twin, Spatio-temporal Prediction, Machine Learning, Intelligent Transportation System.
 
 🎓Education
 ======
@@ -19,8 +19,8 @@ My research interests include Electric Mobility, Data Processing, Time Series, M
 
 👩🏻‍💻Working experience
 ======
-- <img src="/images/OVGU-Logo.png" width="25"> 2025.01-present: Research associate at [OVGU](https://www.ovgu.de/) - Otto von Guericke University Magdeburg, Germany.
-- <img src="/images/ifak-logo.png" width="25"> 2018.05-2025.01: Research associate at [IFAK](https://www.ifak.eu/) - Institute of Automation and Communication, in Magdeburg, Germany.
+- <img src="/images/OVGU-Logo.png" width="25"> 2025: Research associate at [OVGU](https://www.ovgu.de/) - Otto von Guericke University Magdeburg, Germany.
+- <img src="/images/ifak-logo.png" width="25"> 2018.05-2025: Research associate at [IFAK](https://www.ifak.eu/) - Institute of Automation and Communication, in Magdeburg, Germany.
   - 2017.09-2018.04: Master thesis student at [IFAK](https://www.ifak.eu/).
   - 2017.05-2017.08: Student research assistant at [IFAK](https://www.ifak.eu/).
 
