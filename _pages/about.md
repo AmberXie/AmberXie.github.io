@@ -9,7 +9,7 @@ redirect_from:
 
 As an interdisciplinary researcher, I am always on the way to Future Mobility. I am a research associate at OVGU - Otto von Guericke University Magdeburg, in the faculty of Computer Science. Simultaneously, I enrolled as a Ph.D. candidate at OVGU with the topic "Exploration of Spatial-Temporal Models Applying in Actuated Traffic Signals Prediction", where a GCN-LSTM hybrid model is developed to solve the forecasting tasks in time series.
 
-My research interests include Electric Mobility, Traffic/Vehicle Digital Twin, Spatio-temporal Prediction, Machine Learning, Intelligent Transportation System.
+My research interests include Electric Mobility, Traffic/Vehicle Digital Twin, Spatio-temporal Prediction, Machine Learning, and Intelligent Transportation Systems.
 
 🎓Education
 ======
@@ -29,6 +29,7 @@ My research interests include Electric Mobility, Traffic/Vehicle Digital Twin, S
 - Programming languages: Python, Java, C#, PHP etc.
 - Languages: Chinese, English, German.
 - Development: OpenStreetMap, SPAT message in V2X, Machine Learning models, Android Apps, Web-tools etc.
+- Machine Learning models: CNN, RNN, LSTM, GCN, Transformer, Diffusion Model etc.  
 
 🏆Awards
 ======
